@@ -1,2 +1,3 @@
 # System-Wiki
-An explanation of all the repositories in the organization
+This repo aims to explain the project "Samtal Utan Besvär" shortly before you dive into the other repos and their code.
+Samtal Utan Besvär is a Communication Service that offers automatic transcription of sound. Basically, you can make phone calls within the system to other users and have your speech transcribed while you talk. Both the sound and text is then sent to the other client and they get to both read and hear what you said. The whole system is built for the swedish language only which means both the UI and the transcribed text is currently only available in swedish. For an illustration of the mobile app in use and all the servers running, please watch the demo video.  
